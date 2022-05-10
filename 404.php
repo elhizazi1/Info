@@ -33,7 +33,7 @@
 			</div>
 			<h2> Page Not Found </h2>
 			<p> The page you are looking for might have been <br> removed had its name changed or is <br>temporarily unavailable. </p>
-			<a href="index"> Homepage </a>
+			<a href="index.php"> Homepage </a>
 			<div class="notfound-social">
 				<a href="https://facebook.com/elhizazi1" target="_blank"><i class="fa fa-facebook"></i></a>
 				<a href="https://instagram.com/elhizazi1" target="_blank"><i class="fa fa-instagram"></i></a>

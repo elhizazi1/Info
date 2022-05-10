@@ -67,7 +67,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Lobster", sans-serif}
             <h2>‏<span class="Rawan-en-tag Rawan-en-teal Rawan-en-round"><b style="color:#363532">Jamal</b><b style="color:#363532"> El Hizazi</b></span></h2>
           </div>
           <div class="Rawan-en-display-bottomtop Rawan-en-container Rawan-en-text-black">
-            <h2>‏<span class="Rawan-en-tag Rawan-en-teal Rawan-en-round"><a href="ar"><i class="fa fa-language Rawan-en-hover-opacity"></i></a></b></span></h2>
+            <h2>‏<span class="Rawan-en-tag Rawan-en-teal Rawan-en-round"><a href="ar.php"><i class="fa fa-language Rawan-en-hover-opacity"></i></a></b></span></h2>
           </div>
         </div>
         <center><p class="Rawan-en-large"><b><i class=" fa-fw Rawan-en-margin-left Rawan-en-text-teal"></i></p>﷽ </center>
@@ -169,7 +169,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Lobster", sans-serif}
  <b><b><a href="https://twitter.com/elhizazi1" target="_blank"><i class="fa fa-twitter  Rawan-en-hover-opacity"></i></a></b></b><br><b><a href="https://github.com/elhizazi1" target="_blank"><i class="fa fa-github Rawan-en-en-hover-opacity"></i></a></b></b>
   <b><b><a href="https://gitlab.com/elhizazi1" target="_blank"><i class="fa fa-gitlab Rawanen-hover-opacity"></i></a></b>
   <div class="copyright"><p> &copy; 2022 Copyright
-  <a href="index"><b style="color:#363532">Jamal</b><b style="color:#363532"> El Hizazi</b></a> <br>All rights reserved.</p></div>
+  <a href="index.php"><b style="color:#363532">Jamal</b><b style="color:#363532"> El Hizazi</b></a> <br>All rights reserved.</p></div>
 </footer>
 
 
